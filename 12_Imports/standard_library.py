@@ -15,5 +15,5 @@ print(random.randint(1,10))
 #math
 import  math
 
-sqaure_root = math.sqrt(64)
-print(sqaure_root)
+square_root = math.sqrt(64)
+print(square_root)
